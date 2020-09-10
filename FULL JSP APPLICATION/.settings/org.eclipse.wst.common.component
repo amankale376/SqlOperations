@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="FULL JSP APPLICATION">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="listing_data_from_sql_to_webpage"/>
+        <property name="java-output-path" value="/FULL JSP APPLICATION/build/classes"/>
+    </wb-module>
+</project-modules>
